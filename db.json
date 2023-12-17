@@ -1,0 +1,158 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "Alnassr",
+      "thumbnail": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltbcd56e8bc003e00a/657421f8ae7c62040a02891f/GOAL_-_Blank_WEB_-_Facebook_-_2023-12-09T081423.143.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "url": "https://www.youtube.com/embed/4F2YaxnKTGk"
+    },
+    {
+      "id": "1",
+      "caption": "INTERSTELLAR",
+      "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/A1JVqNMI7UL._AC_UF1000,1000_QL80_.jpg",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E"
+    },
+    {
+      "id": "3",
+      "caption": "EL CLASSICO 2023",
+      "thumbnail": "https://i.ytimg.com/vi/NBnIiRT1qi4/sddefault.jpg",
+      "url": "https://www.youtube.com/embed/NBnIiRT1qi4"
+    },
+    {
+      "id": "4",
+      "caption": "KGF",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-91576319,width-400,resizemode-4/91576319.jpg",
+      "url": "https://www.youtube.com/embed/rrXvdEMHVXc"
+    },
+    {
+      "id": "5",
+      "caption": "GAYLE 175*!!!",
+      "thumbnail": "https://img.etimg.com/thumb/msid-91681544,width-640,height-480,imgsize-52664,resizemode-4/chris-gayle-175-in-ipl-2013.jpg",
+      "url": "https://www.youtube.com/embed/k2Hldz68SYQ"
+    },
+    {
+      "id": "6",
+      "caption": "ELECTION RESULTS",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/12/02/550x309/assembly_elections_1701488377790_1701488377994.jpeg",
+      "url": "https://www.youtube.com/embed/t582Q6nj80o"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "SPORTS",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Alnassr",
+          "thumbnail": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltbcd56e8bc003e00a/657421f8ae7c62040a02891f/GOAL_-_Blank_WEB_-_Facebook_-_2023-12-09T081423.143.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+          "url": "https://www.youtube.com/embed/4F2YaxnKTGk"
+        },
+        {
+          "id": "3",
+          "caption": "EL CLASSICO 2023",
+          "thumbnail": "https://i.ytimg.com/vi/NBnIiRT1qi4/sddefault.jpg",
+          "url": "https://www.youtube.com/embed/NBnIiRT1qi4"
+        },
+        {
+          "id": "5",
+          "caption": "GAYLE 175*!!!",
+          "thumbnail": "https://img.etimg.com/thumb/msid-91681544,width-640,height-480,imgsize-52664,resizemode-4/chris-gayle-175-in-ipl-2013.jpg",
+          "url": "https://www.youtube.com/embed/k2Hldz68SYQ"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "MOVIES",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "KGF",
+          "thumbnail": "https://static.toiimg.com/thumb/msid-91576319,width-400,resizemode-4/91576319.jpg",
+          "url": "https://www.youtube.com/embed/rrXvdEMHVXc"
+        },
+        {
+          "id": "1",
+          "caption": "INTERSTELLAR",
+          "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/A1JVqNMI7UL._AC_UF1000,1000_QL80_.jpg",
+          "url": "https://www.youtube.com/embed/zSWdZVtXT7E"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "politics",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "ELECTION RESULTS",
+          "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/12/02/550x309/assembly_elections_1701488377790_1701488377994.jpeg",
+          "url": "https://www.youtube.com/embed/t582Q6nj80o"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": 1,
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "date": "27-10-2023"
+    },
+    {
+      "id": "df7b1a0e-b246-4baf-809d-cf5bcf9b9e3b",
+      "categoryName": "Alnassr",
+      "url": "https://www.youtube.com/embed/4F2YaxnKTGk",
+      "date": "2023-12-12T04:47:47.207Z"
+    },
+    {
+      "id": "cb79d0c5-5400-4005-ad6f-109a4b8c8b20",
+      "categoryName": "INTERSTELLAR",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "date": "2023-12-12T04:50:36.323Z"
+    },
+    {
+      "id": "669353ce-38c5-41d6-881c-39131451d564",
+      "categoryName": "INTERSTELLAR",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "date": "2023-12-12T04:51:56.618Z"
+    },
+    {
+      "id": "37212a28-766d-4095-aae6-9d1c884371d8",
+      "categoryName": "Alnassr",
+      "url": "https://www.youtube.com/embed/4F2YaxnKTGk",
+      "date": "2023-12-12T04:52:22.233Z"
+    },
+    {
+      "id": "cf862761-b781-4817-b315-874c5afe7990",
+      "categoryName": "INTERSTELLAR",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "date": "2023-12-13T03:53:51.031Z"
+    },
+    {
+      "id": "ec2fe807-8ed1-4682-baeb-c28595fe37eb",
+      "categoryName": "INTERSTELLAR",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "date": "2023-12-13T04:45:24.510Z"
+    },
+    {
+      "id": "17ffb764-c02e-48f7-a9dc-29b0c36f63e5",
+      "categoryName": "INTERSTELLAR",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "date": "2023-12-14T04:21:15.537Z"
+    },
+    {
+      "id": "84302585-0dd4-410d-afa8-e425f18454ca",
+      "categoryName": "INTERSTELLAR",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "date": "2023-12-14T04:21:25.488Z"
+    },
+    {
+      "id": "a87184c5-30dd-48f4-868e-913dae62bafc",
+      "categoryName": "INTERSTELLAR",
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "date": "2023-12-14T04:23:19.469Z"
+    }
+  ]
+}
